@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "108088647271",
+    "project_id": "famous-gearing-333512",
+    "storage_bucket": "famous-gearing-333512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108088647271:android:27a94b779c34d3e70afec2",
+        "android_client_info": {
+          "package_name": "com.cat.dakatra.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108088647271-1v12k646cg1ha1heimudjpp8d56em89u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cat.dakatra.patient",
+            "certificate_hash": "b791b13e19edef841b518e81ccbc05e0839217be"
+          }
+        },
+        {
+          "client_id": "108088647271-knbobbuma74un6etrucmgsn7i0apafkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cat.dakatra.patient",
+            "certificate_hash": "653e2eec6c06e849245dae9d55d3612abbc332f1"
+          }
+        },
+        {
+          "client_id": "108088647271-pqug4j6hvq8v2erj154cfbtfu317hp28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cat.dakatra.patient",
+            "certificate_hash": "8a2e8700bfcc6306596de68f10e5e01ca553ff0b"
+          }
+        },
+        {
+          "client_id": "108088647271-hmtdug2p355i9mja2o57or7ieukqhutg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw3_doaHHE790SExZW6UP6dlO9oZLitB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108088647271-hmtdug2p355i9mja2o57or7ieukqhutg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

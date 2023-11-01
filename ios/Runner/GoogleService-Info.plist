@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>108088647271-kdvd4un1h2pbo09pn7tingv2j7jkbpac.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.108088647271-kdvd4un1h2pbo09pn7tingv2j7jkbpac</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>108088647271-1v12k646cg1ha1heimudjpp8d56em89u.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAn8ZlOda9TC9-AdJ9gnW7530Hxd0yxpXI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>108088647271</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cat.dakatra.patient</string>
+	<key>PROJECT_ID</key>
+	<string>famous-gearing-333512</string>
+	<key>STORAGE_BUCKET</key>
+	<string>famous-gearing-333512.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:108088647271:ios:ed8cfe92bd46ba7f0afec2</string>
+</dict>
+</plist>
